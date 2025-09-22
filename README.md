@@ -1,9 +1,8 @@
 # ReelsTiktokClone
 Build Instructions:
-1. Extract VideoFeed.zip file
-2. Open the project in Xcode. Select VideoFeed/VideoFeed.xcodeproj
-3. Select the desired simulator or a connected device.
-4. Run the app with Cmd+R.
+1. Open the project in Xcode. Select VideoFeed/VideoFeed.xcodeproj
+2. Select the desired simulator or a connected device.
+3. Run the app with Cmd+R.
 
 To run tests:
 1. Test with Cmd+U.
